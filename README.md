@@ -1,6 +1,6 @@
 # MyPlanetPlan
 2022 Windesheim University  - Mobile Solution
-Final Product : https://myplanetplan.org/mk
+Final Product : https://myplanetplan.org
 
 
 My Planet, My plan
